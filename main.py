@@ -98,7 +98,5 @@ reset.grid(row=2, column=2)
 tick = Label(bg=YELLOW, fg=GREEN)
 tick.grid(row=3, column=1)
 
-# exit_button = Button(text="Exit", command=window.destroy)
-# exit_button.grid(row=4, column=1)
 
 window.mainloop()
